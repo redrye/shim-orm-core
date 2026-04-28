@@ -1,0 +1,6 @@
+{
+  "name": "@shim-orm/core",
+  "dependencies": {
+    "@traits-ts/core": "^1.2.1"
+  }
+}
